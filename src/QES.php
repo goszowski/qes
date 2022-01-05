@@ -2,6 +2,8 @@
 
 namespace Goszowski\QES;
 
+use Exception;
+
 abstract class QES implements Defines {
 
     protected KeysBag $keysBag;

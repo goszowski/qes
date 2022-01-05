@@ -23,5 +23,4 @@ class SignInfoBag {
     public $subjDNS;
     public $subjEDRPOUCode;
     public $subjDRFOCode;
-    public $data;
 }
